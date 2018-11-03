@@ -32,4 +32,18 @@ body {
 	background-color: #231F20;
 	padding: 5px 22px;
 } 
+.section-headline{
+	font-family: Times new Roman,Times,serif;
+	font-size: 20px;
+	color: #fff;
+	margin: auto;
+	text-align: center;
+	margin-top: 12px;
+}
+
+.section-headline span{
+	background-color: #231F20;
+	padding: 5px 22px;
+}
+
 
