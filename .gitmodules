@@ -1,0 +1,6 @@
+[submodule "Le-s-Bookstore-adminportal"]
+	path = Le-s-Bookstore-adminportal
+	url = git@github.com:mefalamin/Le-s-Bookstore-adminportal.git
+[submodule "Le-s-Bookstore-user-section"]
+	path = Le-s-Bookstore-user-section
+	url = https://github.com/mefalamin/Le-s-Bookstore-user-section.git
