@@ -13,34 +13,40 @@ This is an e-commerce web application built by me while covering the [udemy]([ht
 
 ## Some Screenshots
 
-
-| ![screenshot](screenshots/Le s Bookstore front.png) |
-|:--:|
-| *Front Page* |
-
-| ![screenshot](screenshots/bookshelf.png) |
-|:--:|
-| *Bookshelf* |
-
-| ![screenshot](screenshots/details_book.png) |
-|:--:|
-| *Details of a Book* |
-
-| ![screenshot](screenshots/admin-addbook.png) |
-|:--:|
-| *Admin Adding Book in list* |
-
-| ![screenshot](screenshots/admin-booklist.png) |
-|:--:|
-| *Admin Managing Book Panel * |
-
-| ![screenshot](screenshots/userProfile.png) |
-|:--:|
-| *User Profile Panel * |
-
-| ![screenshot](screenshots/adding card.png) |
-|:--:|
-| *User Payment Section * |
+<figure>
+  <img src="screenshots/index.png" alt="my alt text"/>
+  <figcaption>Front Page</figcaption>
+</figure>
+<br/>
+<figure>
+  <img src="screenshots/bookshelf.png" alt="my alt text"/>
+  <figcaption>Bookshelf</figcaption>
+</figure>
+<br/>
+<figure>
+  <img src="screenshots/details_book.png" alt="my alt text"/>
+  <figcaption>Details of a Book</figcaption>
+</figure>
+<br/>
+<figure>
+  <img src="screenshots/admin-addbook.png" alt="my alt text"/>
+  <figcaption>Admin Adding Book in list</figcaption>
+</figure>
+<br/>
+<figure>
+  <img src="screenshots/admin-booklist.png" alt="my alt text"/>
+  <figcaption>Admin Managing Book Panel</figcaption>
+</figure>
+<br/>
+<figure>
+  <img src="screenshots/userProfile.png" alt="my alt text"/>
+  <figcaption>User Profile Panel</figcaption>
+</figure>
+<br/>
+<figure>
+  <img src="screenshots/adding card.png" alt="my alt text"/>
+  <figcaption>User Payment Adding Section</figcaption>
+</figure>
 
 
 ## License
