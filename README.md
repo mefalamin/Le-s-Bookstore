@@ -14,31 +14,31 @@ This is an e-commerce web application built by me while covering the [udemy]([ht
 ## Some Screenshots
 
 
-| ![space-1.jpg](screenshots/Le s Bookstore front.png) |
+| ![screenshot](screenshots/Le s Bookstore front.png) |
 |:--:|
 | *Front Page* |
 
-| ![space-1.jpg](screenshots/bookshelf.png) |
+| ![screenshot](screenshots/bookshelf.png) |
 |:--:|
 | *Bookshelf* |
 
-| ![space-1.jpg](screenshots/details_book.png) |
+| ![screenshot](screenshots/details_book.png) |
 |:--:|
 | *Details of a Book* |
 
-| ![space-1.jpg](screenshots/admin-addbook.png) |
+| ![screenshot](screenshots/admin-addbook.png) |
 |:--:|
 | *Admin Adding Book in list* |
 
-| ![space-1.jpg](screenshots/admin-booklist.png) |
+| ![screenshot](screenshots/admin-booklist.png) |
 |:--:|
 | *Admin Managing Book Panel * |
 
-| ![space-1.jpg](screenshots/userProfile.png) |
+| ![screenshot](screenshots/userProfile.png) |
 |:--:|
 | *User Profile Panel * |
 
-| ![space-1.jpg](screenshots/adding card.png) |
+| ![screenshot](screenshots/adding card.png) |
 |:--:|
 | *User Payment Section * |
 
