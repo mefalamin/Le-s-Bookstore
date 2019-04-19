@@ -14,12 +14,12 @@ This is an e-commerce web application built by me while covering the [udemy]([ht
 ## Some Screenshots
 
 <figure>
-  <img src="screenshots/index.png" alt="my alt text"/>
+  <img src="screenshots/index.png" alt=""/>
   <figcaption>Front Page</figcaption>
 </figure>
 <br/>
 <figure>
-  <img src="screenshots/bookshelf.png" alt="my alt text"/>
+  <img src="screenshots/bookshelf.png" alt=""/>
   <figcaption>Bookshelf</figcaption>
 </figure>
 <br/>
